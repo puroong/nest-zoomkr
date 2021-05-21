@@ -1,5 +1,5 @@
 import { DynamicModule, Module } from '@nestjs/common';
-import * as Zoom from 'zoomkr';
+import { Zoom } from 'zoomkr';
 
 export const ZOOMKR_MODULE = 'ZOOMKR_MODULE';
 
