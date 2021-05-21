@@ -1,7 +1,7 @@
 {
   "name": "nest-zoomkr",
   "version": "0.0.1",
-  "description": "npm library boilerplate",
+  "description": "Zoomkr for Nest framework(nodejs)",
   "author": "puroong",
   "license": "MIT",
   "main": "dist/index.js",
