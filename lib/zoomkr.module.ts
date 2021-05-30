@@ -1,7 +1,6 @@
 import { DynamicModule, Module } from '@nestjs/common';
 import { Zoom } from 'zoomkr';
-
-export const ZOOMKR_MODULE = 'ZOOMKR_MODULE';
+import { ZOOMKR_MODULE } from './zoomkr.constants';
 
 @Module({})
 export class ZoomkrModule {

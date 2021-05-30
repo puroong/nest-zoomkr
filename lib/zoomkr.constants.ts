@@ -1,0 +1,1 @@
+export const ZOOMKR_MODULE = 'ZOOMKR_MODULE';

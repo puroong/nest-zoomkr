@@ -1,1 +1,1 @@
-export { ZoomkrModule, ZOOMKR_MODULE } from './zoomkr.module';
+export { ZoomkrModule } from './zoomkr.module';
